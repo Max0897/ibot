@@ -51,13 +51,13 @@ npm run dev
 
 ##### 4. View API Keys
 
-![如何查看apikey](C:\Users\User\Desktop\demo\assets\img\Snipaste_2022-12-12_20-30-06.png)
+![如何查看apikey](.\assets\img\Snipaste_2022-12-12_20-30-06.png)
 
 ##### 5. 创建一个新的Secret Key
 
-![创建key](C:\Users\User\Desktop\demo\assets\img\Snipaste_2022-12-12_20-31-10.png)
+![创建key](.\assets\img\Snipaste_2022-12-12_20-31-10.png)
 
 ##### 6. Got it
 
-![](C:\Users\User\Desktop\demo\assets\img\Snipaste_2022-12-12_20-34-54.png)
+![](.\assets\img\Snipaste_2022-12-12_20-34-54.png)
 
