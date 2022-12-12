@@ -29,7 +29,6 @@ async function main() {
                 const contact = message.talker();
                 const text = message.text()
                 const room = message.room()
-                
                 if (room) { //判断群聊
                     const topic = await room.topic()
                     // console.log(`群: ${topic} 用户名: ${contact.name()} 内容: ${text}`)
