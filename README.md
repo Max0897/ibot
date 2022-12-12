@@ -44,7 +44,7 @@ npm run dev
 
 ### 获取 OpenAI 的API key
 
-[https://beta.openai.com/]: https://beta.openai.com/	"openAI官网"
+[openAI官网](https://beta.openai.com/)
 
 ##### 1. 注册
 
