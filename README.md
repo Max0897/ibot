@@ -42,6 +42,10 @@ npm run dev
 
 
 
+
+
+
+
 ### 获取 OpenAI 的API key
 
 [openAI官网](https://beta.openai.com/)
@@ -61,4 +65,16 @@ npm run dev
 ##### 6. Got it
 
 ![](/assets/img/Snipaste_2022-12-12_20-34-54.png)
+
+
+
+### 💦💦💦
+
+当前AI使用的开放式对话模型，
+
+如果有特殊需要可以自行前往官网选择不同模型来替换
+
+地址
+
+[[Examples - OpenAI API](https://beta.openai.com/examples)](https://beta.openai.com/examples)
 
